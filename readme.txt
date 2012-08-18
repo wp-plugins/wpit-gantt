@@ -24,16 +24,16 @@ It has been tested only on WP 3.4 and up, maybe works with older versions too.
 3. Create at least a GANNT and insert the right shortcode in a page or post.
 
 == Frequently Asked Questions ==
-Why use this plugin?
-To show gantt chart in posts or pages
+* Why use this plugin?
+* To show gantt chart in posts or pages
 
 == Screenshots ==
 
 1. This is a sample Gantt chart
 
 == Changelog ==
-0.1 
-first release, very beta
+=0.1= 
+* first release, very beta
 
 
 == Upgrade Notice ==
@@ -44,14 +44,14 @@ first release, very beta
 
 TO DO LIST
 
-Uninstall, delete all plugin options
-Insert Jquery date picker
-WordPress Transients API
-Controls on the date
+* Uninstall, delete all plugin options
+* Insert Jquery date picker
+* WordPress Transients API
+* Controls on the date
 
 LOCALIZATION:
-English
-Italiano
+* English
+* Italiano
 
 If you email (wolly66 (at) gmail dot com)  me the translation it will be inserted in the next release.
 
