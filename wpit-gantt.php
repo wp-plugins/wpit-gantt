@@ -2,14 +2,14 @@
 /**
  * @package WPIT GANTT
  * @author Paolo Valenti
- * @version 0.1 first release
+ * @version 0.2 bug solved
  */
 /*
 Plugin Name: WP GANTT
 Plugin URI: http://paolovalenti.info/gantt
 Description: This plugin allow you to create and insert GANTT chart into pages and posts 
 Author: Paolo Valenti
-Version: 0.1
+Version: 0.2
 Author URI: http://paolovalenti.info
 */
 /*  
@@ -116,9 +116,9 @@ define( 'WPIT_GANTT_PATH', plugin_dir_path(__FILE__) );
 //
 
 //include all plugin files
-include WPIT_GANTT_PATH . 'files/wpit-gantt-functions.php';
+require_once WPIT_GANTT_PATH . 'files/wpit-gantt-functions.php';
 
-include WPIT_GANTT_PATH . 'files/wpit-gantt-start.php';
+require_once WPIT_GANTT_PATH . 'files/wpit-gantt-start.php';
 
 /**
      * Register with hook 'wp_enqueue_scripts', which can be used for front end CSS and JavaScript

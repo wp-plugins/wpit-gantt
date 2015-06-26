@@ -4,7 +4,7 @@ Donate link: no link
 Tags: gantt, charts, gantt charts
 Requires at least: 3.4
 Tested up to: 4.2
-Stable tag: 0.1
+Stable tag: 0.2
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -32,6 +32,10 @@ It has been tested only on WP 3.4 and up, maybe works with older versions too.
 1. This is a sample Gantt chart
 
 == Changelog ==
+
+=0.2= 
+* correct a bug
+
 =0.1= 
 * first release, very beta
 
