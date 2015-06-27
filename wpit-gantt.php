@@ -2,7 +2,7 @@
 /**
  * @package WPIT GANTT
  * @author Paolo Valenti
- * @version 0.2 bug solved
+ * @version 0.4 bug solved
  */
 /*
 Plugin Name: WP GANTT
